@@ -17,7 +17,7 @@ echo;
 
 sleep 3
 
-cd /root && sleep 3 && wget https://raw.githubusercontent.com/ropsnap/ubuntu-patch/main/tinyproxy.conf;
+cd ~/ && sleep 3 && wget https://raw.githubusercontent.com/ropsnap/ubuntu-patch/main/tinyproxy.conf;
 echo;
 
 # ------------------------------------------------------------------ 2
